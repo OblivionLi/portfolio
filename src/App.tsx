@@ -16,7 +16,7 @@ function App() {
     }
 
     return (
-        <Router>
+        <Router basename="/">
             <div className="App">
                 <header className="App-header">
                     <h1 className="App-header-name underlineColor">Liviu G. Andrei</h1>
@@ -80,7 +80,7 @@ function App() {
                 </header>
 
                 <nav className="App-navigation">
-                    <NavLink to="/" className="button buttonTab" end>
+                    <NavLink to="/" className="button buttonTab">
                         PHP PROJECTS
                     </NavLink>
                     <NavLink to="/java-projects" className="button buttonTab">
