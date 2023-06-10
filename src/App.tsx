@@ -60,7 +60,7 @@ function App() {
                                     </p>
                                 </div>
                                 <div className="App-header-introduction-box">
-                                    <h4 className="underlineColor">Languages I know best:</h4>
+                                    <h4 className="underlineColor3">Languages I know best:</h4>
                                     <ul>
                                         <li>PHP (+Laravel)</li>
                                         <li>Java (+Spring Boot)</li>
@@ -68,7 +68,7 @@ function App() {
                                         <li>JavaScript (+React, +Vue)</li>
                                         <li>SQL (mainly MySQL)</li>
                                     </ul>
-                                    <h4 className="underlineColor">Languages I dabbled with:</h4>
+                                    <h4 className="underlineColor3">Languages I dabbled with:</h4>
                                     <ul>
                                         <li>C++ (small console apps & Unreal Engine)</li>
                                         <li>C# (writing simple scripts for Unity games)</li>
