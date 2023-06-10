@@ -1,0 +1,144 @@
+{
+  "projects": [
+    {
+      "title": "Origami",
+      "image": "project-9.png",
+      "description": "Application to sell handmade origami figures. It contains everything\n    that is needed: a CMS (built from scratch) where admins can manipulate\n    the data presented on the front end; a full authentification and\n    authorization (roles/permissions); cart system and stripe payment. Its\n    also an improved variant of the \"Shop\" project.",
+      "programming_languages": [
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "React",
+        "React-Redux",
+        "SASS",
+        "Stripe",
+        "MySQL",
+        "Material UI (v4)"
+      ],
+      "githubLink": "https://github.com/OblivionLi/origami",
+      "youtubeLink": "https://www.youtube.com/watch?v=WrzorrncrHE",
+      "positionLeft": true
+    },
+    {
+      "title": "MCFree",
+      "image": "project-1.png",
+      "description": "Website was created for a minecraft community server for handling\n    content, updates, bugs and more.. Also containing a shop section using\n    cart functionality and a CMS built from scratch where admins can\n    manage everything on the website.",
+      "programming_languages": [
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "React",
+        "React-Redux",
+        "SASS",
+        "Stripe",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/mc-platf",
+      "youtubeLink": "https://www.youtube.com/watch?v=0XveO2cDM1w",
+      "positionLeft": false
+    },
+    {
+      "title": "Shop",
+      "image": "project-7.png",
+      "description": "This is a project where users can navigate through it choosing clothes\n    then buying them through STRIPE payment method. It also contains a\n    CMS, Cart System, Review and Rating System built from scratch. If you\n    want to know more check the source code below or the yt video.",
+      "programming_languages": [
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "React",
+        "React-Redux",
+        "SASS",
+        "Stripe",
+        "MaterialUI",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/shop",
+      "youtubeLink": "https://www.youtube.com/watch?v=wymmusy0T3Y",
+      "positionLeft": true
+    },
+    {
+      "title": "Novel Heaven",
+      "image": "project-5.png",
+      "description": "Website where the administrator can upload books/novels (and any other\n    kind of article) chapters. The administrator can manage all the\n    content (including user management) from inside the private CMS built\n    from scratch. The app contains the authentification & authorization\n    with roles & permissions.",
+      "programming_languages": [
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "JQuery",
+        "Bootstrap",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/novel-heaven",
+      "youtubeLink": "https://www.youtube.com/watch?v=tAQu4-Tr_ac",
+      "positionLeft": false
+    },
+    {
+      "title": "JSON Manipulation",
+      "image": "project-8.png",
+      "description": "A simple project that manipulates (filter/sort/search/paginate) data from an external API.",
+      "programming_languages": [
+        "React",
+        "React-Redux",
+        "Axios",
+        "CSS"
+      ],
+      "githubLink": "https://github.com/OblivionLi/filterjson",
+      "youtubeLink": "https://www.youtube.com/watch?v=LddjKrjw7eM",
+      "positionLeft": true
+    },
+    {
+      "title": "Musica",
+      "image": "project-6.png",
+      "description": "Website represents a record label that registers an album with it's\n    artists, groups, songs and more. Also the app can display all data for\n    the user to search through and check for albums. Contains a private CMS built from scratch for\n    admins.",
+      "programming_languages": [
+        "PHP",
+        "HTML",
+        "CSS",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/musica",
+      "youtubeLink": "https://www.youtube.com/watch?v=fo2Uq8H8eYA",
+      "positionLeft": false
+    },
+    {
+      "title": "Health Tracker",
+      "image": "project-3.png",
+      "description": "Website that tracks your health by measuring your BMI (including a complete auth. implementation\n    i.e.\n    register, login, password forgot, reset) and also calculates the water intake based on your BMI.",
+      "programming_languages": [
+        "PHP",
+        "JavaScript",
+        "Bootstrap",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/health-tracker",
+      "youtubeLink": "https://www.youtube.com/watch?v=pSm9_6HRiAA",
+      "positionLeft": true
+    },
+    {
+      "title": "Search Engine",
+      "image": "project-2.png",
+      "description": "A search-engine website that crawls data from a given link (i.e. wiki), store those links in the\n    database, then display and redirect to the original links. Works as google images too.",
+      "programming_languages": [
+        "PHP",
+        "JavaScript",
+        "AJAX",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/search-engine",
+      "youtubeLink": "https://www.youtube.com/watch?v=6d8KD5eaOOM",
+      "positionLeft": false
+    },
+    {
+      "title": "Currency Grabber",
+      "image": "project-4.png",
+      "description": "A simple currency grabber that takes data from a bank API and displays it into a table where it can also be saved inside a database by pressing a button.",
+      "programming_languages": [
+        "PHP",
+        "MySQL"
+      ],
+      "githubLink": "https://github.com/OblivionLi/exchange-currency-grabber",
+      "youtubeLink": "https://www.youtube.com/watch?v=DvgA9qCro_o",
+      "positionLeft": true
+    }
+  ]
+}

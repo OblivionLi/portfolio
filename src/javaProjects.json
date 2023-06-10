@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "title": "Tic Tac Toe",
+      "image": "-",
+      "description": "A classic game of tic tac toe with multiple game modes and difficulties. There are 3 computer difficulties (easy-medium-hard) and the game allow a user-user, user-cpu, cpu-cpu play modes.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/tic-tac-toe"
+    },
+    {
+      "title": "Coffee Machine",
+      "image": "-",
+      "description": "A simple coffee machine (with 3 variants at the moment - latte/cappuccino/espresso) with an interface that can display the remaining ingredients, filling the machine with ingredients, buying coffee and taking all the stored money.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/coffee-machine"
+    },
+    {
+      "title": "Number Base Converter",
+      "image": "-",
+      "description": "This small app is converting numbers from any given source base to any target base. As there are 26 Latin letters and 10 digits, the maximum base is 26 + 10 = 36. So, the target and source base will be between 2 and 36.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/number-base-converter"
+    },
+    {
+      "title": "Rock Paper Shotgun",
+      "image": "-",
+      "description": "Play the classic game rock-paper-scissors but on steroids (3 classic gestures rock-paper-scissors + 11 more) against a computer player.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/rock-paper-shotgun"
+    },
+    {
+      "title": "Amazing Numbers",
+      "image": "-",
+      "description": "A simple program that shows properties for a given number or until a number has a property N times.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/amazing-numbers"
+    },
+    {
+      "title": "Chuck Norris Cipher Encoder",
+      "image": "-",
+      "description": "A simple encoder that takes a string as input > converts to binary > then converts the binary string to chuck norris unary code > then back to binary > and to the original readable input string.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/chuck-norris-cipher-encoder"
+    },
+    {
+      "title": "Cinema Room Manager",
+      "image": "-",
+      "description": "The program prompts the user to provide a number of rows and seats that will create the cinema room and then the user can choose a number of options to manipulate the room/show details about it.",
+      "programming_languages": [
+        "Java"
+      ],
+      "githubLink": "https://github.com/OblivionLi/cinema-room-manager"
+    }
+  ]
+}
