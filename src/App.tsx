@@ -80,7 +80,7 @@ function App() {
                 </header>
 
                 <nav className="App-navigation">
-                    <NavLink to="/php-projects" className="button buttonTab" end>
+                    <NavLink to="/" className="button buttonTab" end>
                         PHP PROJECTS
                     </NavLink>
                     <NavLink to="/java-projects" className="button buttonTab">
@@ -91,7 +91,7 @@ function App() {
                 <div className="divider-footer underlineColor"></div>
 
                 <Routes>
-                    <Route path="/php-projects" element={<PhpProjects/>}/>
+                    <Route path="/" element={<PhpProjects/>}/>
                     <Route path="/java-projects" element={<JavaProjects/>}/>
                 </Routes>
 
