@@ -21,7 +21,8 @@ function JavaProjects() {
 
     return (
         <div className="content">
-            {data == null ? (
+            {true ? (
+            // {data == null ? (
                 <div className="loader">
                     <Box sx={{display: 'flex'}}>
                         <CircularProgress className="circular-loader" />
